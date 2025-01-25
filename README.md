@@ -3,25 +3,25 @@
 NAdministrateur est un plugin conçu pour le jeu Nova-Life, permettant aux staff d'un serveur d'effectuer différentes actions en jeu sur les joueurs et le serveur.
 
 ## ⭐ Fonctionnalités
-- Informations sur le serveur :
-    - Nombre de joueurs : Nombre de joueurs en ligne
-    - Nombre de staff : Nombre de staff en ligne
-- Gestion des joueurs :
-    - Modifier le prénom : Modifie le prénom de la personne la plus proche de vous ou le vôtre si personne n'est proche de vous
-    - Modifier le nom de famille : Modifie le nom de famille de la personne la plus proche de vous ou le vôtre si personne n'est proche de vous
-    - Modifier le numéro de téléphone : Modifie le numéro de téléphone de la personne la plus proche de vous ou le vôtre si personne n'est proche de vous
-    - Donner le permis : Donne le permis à la personne la plus proche de vous ou à vous si personne n'est proche de vous
-    - Donner des points : Donne des points sur le permis de la personne la plus proche de vous ou à vous si personne n'est proche de vous
-    - Modifier l'entreprise : Modifie l'entreprise de la personne la plus proche de vous ou la vôtre si personne n'est proche de vous
-- Gestion des événements :
-    - Activer/désactiver le mégaphone : Active ou désactive le mégaphone
-    - Mute/unmute tous les joueurs : Mute ou unmute tous les joueurs du serveur (sauf les staff)
-    - Revive tous les joueurs : Revive tous les joueurs du serveur
-- Configuration du menu :
-    - Menu des informations : Modifie les permissions minimum pour accéder au menu des informations (1 par défaut)
-    - Menu de gestion des joueurs : Modifie les permissions minimum pour accéder au menu de gestion des joueurs (5 par défaut)
-    - Menu de gestion des événements : Modifie les permissions minimum pour accéder au menu de gestion des événements (5 par défaut)
-    - Gestion du webhook : Modifie le webhook sur lequel seront envoyées l'ensemble des logs de ce plugin
+- **Informations sur le serveur :**
+    - **Nombre de joueurs :** Nombre de joueurs en ligne
+    - **Nombre de staff :** Nombre de staff en ligne
+- **Gestion des joueurs :**
+    - **Modifier le prénom :** Modifie le prénom de la personne la plus proche de vous ou le vôtre si personne n'est proche de vous
+    - **Modifier le nom de famille :** Modifie le nom de famille de la personne la plus proche de vous ou le vôtre si personne n'est proche de vous
+    - **Modifier le numéro de téléphone :** Modifie le numéro de téléphone de la personne la plus proche de vous ou le vôtre si personne n'est proche de vous
+    - **Donner le permis :** Donne le permis à la personne la plus proche de vous ou à vous si personne n'est proche de vous
+    - **Donner des points :** Donne des points sur le permis de la personne la plus proche de vous ou à vous si personne n'est proche de vous
+    - **Modifier l'entreprise :** Modifie l'entreprise de la personne la plus proche de vous ou la vôtre si personne n'est proche de vous
+- **Gestion des événements :**
+    - **Activer/désactiver le mégaphone :** Active ou désactive le mégaphone
+    - **Mute/unmute tous les joueurs :** Mute ou unmute tous les joueurs du serveur (sauf les staff)
+    - **Revive tous les joueurs :** Revive tous les joueurs du serveur
+- **Configuration du menu :**
+    - **Menu des informations :** Modifie les permissions minimum pour accéder au menu des informations (1 par défaut)
+    - **Menu de gestion des joueurs :** Modifie les permissions minimum pour accéder au menu de gestion des joueurs (5 par défaut)
+    - **Menu de gestion des événements :** Modifie les permissions minimum pour accéder au menu de gestion des événements (5 par défaut)
+    - **Gestion du webhook :** Modifie le webhook sur lequel seront envoyées l'ensemble des logs de ce plugin
 
 ## 📖 Comment l'utiliser
 - La commande `/admin` (permission 1 minimum) permet d'ouvrir le menu d'administration
